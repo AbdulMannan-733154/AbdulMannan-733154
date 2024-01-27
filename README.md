@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm AbdulMannan-733154</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img align="center" alt="coding" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmannan-733154&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmannan-733154" /> </p>
 
-- 🌱 I’m currently learning **Data Structures And Algorithms**
+- 🌱 **Data Structures And Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
